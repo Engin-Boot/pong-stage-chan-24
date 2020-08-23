@@ -11,7 +11,7 @@ On Game Start
   
   Start *Ball-Movement*
   Enable Player-1 and Player-2 *Paddle-Movement*
-  Start *Score-Kepeer*
+  Start *Score-Keeper*
 
 ## Movement Initiation
 
@@ -19,4 +19,4 @@ On Game Start
 
 ## One score
 
-*Score-Kepeer* module deals with the scoring of the game
+*Score-Keeper* module deals with the scoring of the game

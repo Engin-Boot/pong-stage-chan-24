@@ -3,18 +3,20 @@
 ## Startup Sequence
 
 Before Game starts
+  
   UI can be changed using *UI* module
   Game control keys and player names can be assigned using *Assign* module
   
 On Game Start
-  Start *Ball_Movement*
-  Enable Player-1 and Player-2 *Paddle_Movement*
-  Start *ScoreKepeer*
+  
+  Start *Ball-Movement*
+  Enable Player-1 and Player-2 *Paddle-Movement*
+  Start *Score-Kepeer*
 
 ## Movement Initiation
 
-*Ball_Movement* module deals with the movement of ball
+*Ball-Movement* module deals with the movement of ball
 
 ## One score
 
-*ScoreKepeer* module deals with the scoring of the game
+*Score-Kepeer* module deals with the scoring of the game

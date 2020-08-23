@@ -1,6 +1,7 @@
 # Interaction Sequences
 
 ## Startup Sequence
+
 Before Game starts
   UI can be changed using *UI* module
   Game control keys and player names can be assigned using *Assign* module

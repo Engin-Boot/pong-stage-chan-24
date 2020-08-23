@@ -1,13 +1,19 @@
 # Interaction Sequences
 
 ## Startup Sequence
-
--describe-how-your-modules-interact-to-start
+Before Game starts
+  UI can be changed using *UI* module
+  Game control keys and player names can be assigned using *Assign* module
+  
+On Game Start
+  Start *Ball_Movement*
+  Enable Player-1 and Player-2 *Paddle_Movement*
+  Start *ScoreKepeer*
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+*Ball_Movement* module deals with the movement of ball
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
+*ScoreKepeer* module deals with the scoring of the game

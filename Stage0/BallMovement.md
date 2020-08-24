@@ -1,8 +1,6 @@
-# -give-this-module-a-name
-
 ## Feature
 
-What part of the game does this module deliver?
+*BallMovement* module is used to initiate and change ball movement 
 
 ## Acceptance Criteria
 

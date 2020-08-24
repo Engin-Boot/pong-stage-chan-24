@@ -1,7 +1,7 @@
 
 ## Feature
 
-*Ball-Movement* module is used to initiate and change ball movement 
+*Ball-Movement* module is used to initiate and change ball movement
 
 ## Acceptance Criteria
 

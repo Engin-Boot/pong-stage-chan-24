@@ -1,8 +1,8 @@
-# -give-this-module-a-name
+# UI
 
 ## Feature
 
-What part of the game does this module deliver?
+UI module is used for changing the background, ball and paddle appearance
 
 ## Acceptance Criteria
 
